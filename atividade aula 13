@@ -1,0 +1,36 @@
+import random
+
+def atividade_1():
+    n   =  random.randint(5,10)
+    return n
+
+
+
+
+import random
+
+def atividade_2():
+    n   =  random.randint(5,10)
+    n   =  random.randint(5,10)
+    n   =  random.randint(5,10)
+    return n
+
+
+
+
+import random
+def atividade_3():
+    n   =  random.randrange(10,30)
+   
+    print(n)
+
+
+
+
+import random
+
+def atividade_4():
+    contador = 10
+while contador <= 1:
+     print("Número:", contador)
+     contador += 1
